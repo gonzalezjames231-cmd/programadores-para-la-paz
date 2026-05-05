@@ -1,0 +1,9 @@
+Repositorio: Es un espacio digital o carpeta inteligente donde se almacenan
+todos los archivos de un proyecto junto con su historial completo de cambios.
+Permite que varios programadores trabajen juntos sin borrar el trabajo de otros.
+Commit: Es como una "fotografía" de los archivos en un momento específico.
+Cada commit guarda los cambios realizados y requiere un mensaje descriptivo
+para que el equipo sepa qué se mejoró o qué problema se arregló.
+Push: Es la acción de subir o enviar los cambios que hemos guardado localmente
+hacia un servidor remoto, como GitHub. De esta manera, el código queda respaldado
+en la nube y disponible para el resto del equipo.
