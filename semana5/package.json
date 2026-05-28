@@ -1,0 +1,12 @@
+{
+  "name": "semana5",
+  "version": "1.0.0",
+  "description": "Tarea de la semana 5 - Rutas y APIs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
