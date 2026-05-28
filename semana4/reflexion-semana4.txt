@@ -1,0 +1,8 @@
+Es fundamental que las comunidades e iniciativas ciudadanas construyan
+sus propias herramientas tecnológicas utilizando software abierto como Node.js
+porque les otorga autonomía y soberanía digital. Al no depender de plataformas
+privadas o costosas licencias, los proyectos comunitarios pueden adaptar el
+código exactamente a sus necesidades locales sin restricciones económicas.
+Además, el uso de tecnologías libres fomenta el aprendizaje colaborativo, 
+permitiendo que los mismos miembros del barrio o comunidad se capaciten en desarrollo web,
+reduzcan la brecha digital y protejan la privacidad de sus propios datos frente a grandes corporaciones.
