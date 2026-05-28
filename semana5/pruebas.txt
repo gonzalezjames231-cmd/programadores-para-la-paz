@@ -1,0 +1,7 @@
+Al probar las rutas en el navegador ocurre lo siguiente:
+1. http://localhost:3000 -> El navegador muestra el texto "Servidor activo".
+Es la respuesta de la ruta GET principal.
+2. http://localhost:3000/saludo -> El navegador muestra el texto "Hola comunidad".
+Responde al endpoint específico de saludo.
+3. http://localhost:3000/mensaje/juan -> El navegador muestra el texto "Hola juan".
+El servidor lee dinámicamente el parámetro ":nombre" enviado en la URL y lo concatena en la respuesta.
