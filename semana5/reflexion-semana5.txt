@@ -1,0 +1,11 @@
+Las APIs son herramientas tecnológicas clave para que las comunidades
+compartan información, reportes o alertas de manera organizada,
+ya que actúan como puentes estandarizados de comunicación entre
+diferentes aplicaciones. Al definir reglas claras (endpoints) para consultar
+o enviar datos, permiten que múltiples plataformas creadas por 
+los mismos ciudadanos (como aplicaciones móviles, páginas web del barrio 
+o sistemas de mensajería bot) consuman la misma base de datos centralizada.
+Esto evita la duplicidad de información, agiliza la
+respuesta ante emergencias vecinales mediante alertas  automatizadas y
+garantiza que los datos públicos de la comunidad sean accesibles,
+ordenados y fáciles de integrar en nuevos proyectos locales.
