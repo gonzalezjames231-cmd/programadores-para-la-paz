@@ -1,0 +1,15 @@
+El uso de variables de entorno mediante archivos .env
+ y la correcta configuración de un archivo .gitignore son
+  prácticas indispensables en el desarrollo de software 
+  moderno enfocado en la seguridad. Mantener credenciales, 
+  claves de API, contraseñas de bases de datos y puertos 
+  separados del código fuente evita que información crítica
+   sea expuesta en repositorios públicos de GitHub de forma
+    accidental. Esto protege la aplicación de posibles ataques
+     cibernéticos y accesos no autorizados que pongan en riesgo
+      la integridad del proyecto. Además, las variables de entorn
+      o permiten que el proyecto sea sumamente flexible, facilit
+      ando la transición y configuración del software entre diferen
+      tes entornos de trabajo, como desarrollo local, pruebas y pro
+      ducción, sin necesidad de modificar una sola línea de código e
+      n el servidor.

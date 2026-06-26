@@ -1,0 +1,11 @@
+Pregunta 1: ¿Qué es una variable de entorno?
+Respuesta: B. Un valor dinámico que el sistema operativo o el entorno de ejecución puede pasar a una aplicación.
+
+Pregunta 2: ¿Cuál es el propósito principal del archivo .env?
+Respuesta: B. Almacenar configuraciones sensibles de la aplicación de forma local y segura.
+
+Pregunta 3: ¿Por qué NO se debe subir el archivo .env a GitHub?
+Respuesta: B. Porque contiene información sensible que podría ser expuesta públicamente.
+
+Pregunta 4: ¿Qué biblioteca de Node.js se utiliza comúnmente para cargar variables de entorno desde un archivo .env?
+Respuesta: B. dotenv

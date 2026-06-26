@@ -1,0 +1,9 @@
+Al consultar la ruta GET http://localhost:3000/reportes después de haber ingresado el primer reporte, el servidor devuelve un array con el objeto guardado en memoria:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
