@@ -1,0 +1,16 @@
+CÓDIGOS DE ESTADO HTTP SELECCIONADOS
+
+1. Código 200 (OK):
+- Categoría: Éxito (2xx)
+- Significado: La petición ha sido recibida, procesada y respondida de manera exitosa por el servidor. El recurso solicitado se devuelve en la respuesta.
+
+2. Código 404 (Not Found):
+- Categoría: Errores del Cliente (4xx)
+- Significado: El servidor no ha podido encontrar el recurso solicitado. Esto suele pasar porque la URL está mal escrita o el archivo/ruta ya no existe.
+
+3. Código 500 (Internal Server Error):
+- Categoría: Errores del Servidor (5xx)
+- Significado: El servidor encontró una condición inesperada o un fallo en el código que le impidió procesar y completar la petición con éxito.
+
+¿Por qué son útiles los códigos de estado para los desarrolladores?
+Son fundamentales porque actúan como un canal de comunicación estandarizado e inmediato entre el servidor y el cliente. Permiten a los desarrolladores diagnosticar y depurar errores rápidamente (saber si el problema está en una mala petición del cliente o en un fallo del backend). Además, facilitan que las aplicaciones manejen los errores de forma automática en la interfaz, mostrando mensajes claros y amigables a los usuarios según el código recibido.

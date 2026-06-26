@@ -1,0 +1,10 @@
+CONCEPTOS CLAVE DEL PROTOCOLO HTTP
+
+1. Petición (Request):
+Es el mensaje que el cliente (por ejemplo, el navegador web) envía al servidor para solicitar una acción o un recurso. Contiene un método HTTP (GET, POST, etc.), una URL, encabezados (headers) con metadatos y, opcionalmente, un cuerpo (body) con datos.
+
+2. Respuesta (Response):
+Es el mensaje que el servidor devuelve al cliente tras procesar la petición. Contiene un código de estado (status code) que indica el resultado, encabezados con información sobre el servidor o el contenido, y el cuerpo de la respuesta (que suele ser un archivo HTML, JSON, una imagen, etc.).
+
+3. Métodos HTTP (Verbos):
+Son las operaciones estandarizadas que indican la acción que se desea realizar sobre el recurso. Los más comunes son GET (para recuperar o consultar información) y POST (para enviar datos nuevos y crear un recurso en el servidor).

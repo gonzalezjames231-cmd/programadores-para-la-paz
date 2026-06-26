@@ -1,0 +1,11 @@
+Pregunta 1: En el modelo Cliente-Servidor, ¿cuál es el rol principal del "Cliente"?
+Respuesta: B. Iniciar la comunicación enviando una petición al servidor.
+
+Pregunta 2: ¿Qué significa el término "Stateless" (sin estado) en el contexto del protocolo HTTP?
+Respuesta: B. Que cada petición se trata de forma independiente y el servidor no recuerda peticiones anteriores de manera nativa.
+
+Pregunta 3: ¿Cuál de las siguientes opciones describe mejor el propósito de un código de estado HTTP?
+Respuesta: B. Indicar el resultado de una petición (si fue exitosa, si hubo un error del cliente o del servidor).
+
+Pregunta 4: ¿A qué categoría pertenece un código de estado HTTP que comienza con el número 4 (por ejemplo, 404)?
+Respuesta: B. Errores del Cliente (por ejemplo, recurso no encontrado o sintaxis incorrecta).
