@@ -1,0 +1,6 @@
+HISTORIAS DE USUARIO (Ordenadas de mayor a menor prioridad)
+
+1. [ALTA] Como ciudadano, quiero reportar una falla en el alumbrado público a través de un formulario para que la junta de acción comunal pueda gestionar su reparación.
+2. [ALTA] Como coordinador de veeduría, quiero recibir una alerta automática en Telegram cada vez que un ciudadano registre un nuevo reporte para revisarlo y clasificarlo rápidamente.
+3. [MEDIA] Como miembro del equipo de soporte, quiero consultar el listado de reportes pendientes para realizar el seguimiento de las soluciones aplicadas.
+4. [BAJA] Como vecino del sector, quiero recibir un resumen semanal en mi correo con las incidencias solucionadas para estar informado del avance en la comunidad.
